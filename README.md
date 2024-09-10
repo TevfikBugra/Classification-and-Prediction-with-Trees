@@ -1,5 +1,4 @@
 # Classification-and-Prediction-with-Trees
-Classifying and predicting the type of messages as either spam or nonspam, and predicting the price attribute of "Toyota Corolla".
 
 **Objective**: This project focuses on classifying messages as either spam or non-spam and predicting the price of a Toyota Corolla. The goal is to employ tree-based methods to achieve accurate predictions and classifications.
 
